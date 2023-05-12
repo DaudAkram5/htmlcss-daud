@@ -1,0 +1,82 @@
+
+body{
+    text-align: center;
+}
+.search{
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: pink;
+    background-image: url('icon.png');
+    background-position: 1px 2px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+}
+             
+            /*
+.main{  position: relative;
+    background-color:silver;width: 400px;height: 400px;
+    margin: 50px 0 50px 200px;
+   }
+.pink{ position: relative;
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    left: 150px;
+    top:100px;
+;       }
+
+       .blue { position: absolute;
+        background-color: blue;
+        width: 100px;
+        height: 100px; 
+        top: 100px; left:100px;
+        z-index: 2;
+       }
+.green { position: absolute;
+            background-color: darkgreen;
+            width: 100px;
+            height: 100px;
+            z-index: 1;
+            
+            
+            } 
+            .text1{
+                background-color: blueviolet; width: 20%;
+                text-align: center;
+                float: right;
+            }
+            .text2{
+                background-color: brown; width: 20%;
+                text-align: center;
+            }
+
+
+                <div class="main">
+
+    <div class="pink">pink</div>
+ <div class="blue">blue</div> 
+<div class="green">green</div>
+    </div>
+    <h2><a href="contact.html"> Hobbies </a> </h2>
+<ol>
+<li style="color:aqua;"> Badminton </li>
+<li style=" list-style-type: upper-roman;"> Cricket </li>
+</ol>
+<h1> space</h1>
+<h1> space</h1>
+<h1> space</h1>
+<h1> space</h1>
+<div>
+<h1 class="text1"> my name is daud
+</h1>
+<h2 class="text2">I am 25 Years old</h2>  </div> 
+*/
+/* body{ background-image: url("daud.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    
+    background-attachment: fixed;}
+.main{  position: relative; */
