@@ -1,2 +1,1 @@
-# htmlcss-daud
-practice
+# practice
